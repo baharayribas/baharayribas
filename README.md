@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Data Supply Specialist**
 
-- 🌱 I’m currently learning **DataScince and Machine Learning in Miuul DS & ML Bootcamp**
+- 🌱 I’m currently learning **DataScience and Machine Learning in Miuul DS & ML Bootcamp**
 
 - 📫 How to reach me **baharayribas@gmail.com**
 
