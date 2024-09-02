@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU1NTEzOTI1YWZhZmRmZDgzM2ViZDQ3MzVjZWNhZjE1MzRhNzJjOSZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-- 🔭 I’m currently working on **Data Supply Specialist**
+- 🔭 I’m currently working on **Data Analytics**
 
 - 🌱 I’m currently learning **DataScience and Machine Learning in Miuul DS & ML Bootcamp**
 
